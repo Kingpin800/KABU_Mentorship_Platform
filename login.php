@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -22,7 +22,7 @@
             <input type="submit" name="Submit" value="LOGIN" id="sub"><br>
             <p><a href="">forgot your password?</a></p>
         </form>
-    </div>
+    </div> -->
     <?php
     $Hostname="localhost";
 $Username="root";
@@ -83,5 +83,5 @@ else{
 }
 };
     ?>
-</body>
-</html>
+<!--</body>
+</html> -->
